@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Elshindr!</h1>
-<h3 align="center">A passionate studiant developer from France</h3>
+<h2 align="center">:cactus:A little more about me :cactus:</h2>
+<hr>
 
-- 🔭 I’m currently working on **Android app with REST API**
+- :leaves: I enjoy sciences including biology
 
-- 🌱 I’m currently learning **C#, JavaFx, PHP and Android**
+- 💜 I’m currently working on **Android app with REST API**
 
+- 👾 I’m presently learning **JavaFx, PHP and Android**
 
-<p align="left">
-</p>
+- 🌴 I am a second year student in computer sciences        
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+<hr>
+<h3 align="center">Languages and Tools:</h3>
 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+ ![Csharp](https://img.shields.io/badge/-Cshp-333333?style=flat&logo=C%2B%2B)
+ ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
+  ![android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) 
+  ![symfony](https://img.shields.io/badge/-symfony-333333?style=flat&logo=symfony) 
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+ ![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)  ![selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elshindr&show_icons=true&locale=en&layout=compact" alt="elshindr" /></p>
+<h3>I love connecting with different people! So if you want to say hi!, I'll be happy to meet you more! 🌾</h3>          
