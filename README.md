@@ -19,9 +19,8 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) &nbsp;
   ![android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android) &nbsp;
   ![symfony](https://img.shields.io/badge/-symfony-333333?style=flat&logo=symfony) &nbsp;
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) &nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) &nbsp;&nbsp;
- ![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins) &nbsp; ![selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium) &nbsp;&nbsp;
- ![sonarQube](https://img.shields.io/badge/-sonarQube-333333?style=flat&logo=sonarQube)
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) &nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) &nbsp;&nbsp;
+ ![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins) &nbsp; ![selenium](https://img.shields.io/badge/-selenium-333333?style=flat&logo=selenium) &nbsp;![sonarQube](https://img.shields.io/badge/-sonarQube-333333?style=flat&logo=sonarQube)
 
 <hr><br><br>
 
