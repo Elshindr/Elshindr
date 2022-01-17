@@ -3,11 +3,11 @@
 
 - :leaves: I enjoy sciences including biology
 
-- 💜 I’m currently working on **Android app with REST API**
+- 💜 I’m currently working on [Android_MediaTek86Formations](https://github.com/Elshindr/Android_MediaTek86Formations)
 
-- 👾 I’m presently learning **JavaFx, PHP and Android**
+- 👾 I’m presently improving [MyHeadacheDiary](https://github.com/Elshindr/MyHeadacheDiary)
 
-- 🌴 I am a second year student in computer sciences        
+- 🌴 I am a second year student in computer sciences
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
