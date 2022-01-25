@@ -3,7 +3,7 @@
 
 - :leaves: I enjoy sciences including biology
 
-- 💜 I’m currently working on [Android_MediaTek86Formations](https://github.com/Elshindr/Android_MediaTek86Formations)
+- 💜 I’m lastest project was [Android_MediaTek86Formations](https://github.com/Elshindr/Android_MediaTek86Formations)
 
 - 👾 I’m presently improving [MyHeadacheDiary](https://github.com/Elshindr/MyHeadacheDiary)
 
