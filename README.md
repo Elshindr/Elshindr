@@ -1,7 +1,7 @@
 <h2 align="center">:cactus:A little more about me :cactus:</h2>
 <br><br>
 
-- :leaves: I enjoy sciences including biology
+- :leaves: I enjoy sciences including biology and exploring new things.
 
 - 💜 I’m lastest project was [Android_MediaTek86Formations](https://github.com/Elshindr/Android_MediaTek86Formations)
 
