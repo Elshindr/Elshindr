@@ -5,7 +5,7 @@
 
 - 💜 I’m lastest project was [Android_MediaTek86Formations](https://github.com/Elshindr/Android_MediaTek86Formations)
 
-- 👾 I’m presently improving [MyHeadacheDiary](https://github.com/Elshindr/MyHeadacheDiary)
+- 👾 I’m presently improving [Mediatek86gestion](https://github.com/Elshindr/Mediatek86gestion)
 
 - 🌴 I am a second year student in computer sciences
 
