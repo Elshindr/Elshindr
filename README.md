@@ -15,12 +15,12 @@
 ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=openjdk) &nbsp;
  ![angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)&nbsp;
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)&nbsp;
-  ![android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)&nbsp;
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) &nbsp;
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp; 
  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)&nbsp;
  ![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)&nbsp;
- ![sonarQube](https://img.shields.io/badge/-sonarQube-333333?style=flat&logo=sonarQube)
+ ![sonarQube](https://img.shields.io/badge/-sonarQube-333333?style=flat&logo=sonarQube)&nbsp;
+ ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
 <hr><br><br>
 
