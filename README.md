@@ -13,7 +13,6 @@
 <br><br>
 
 ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=openjdk) &nbsp;
- ![angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)&nbsp;
  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)&nbsp;
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) &nbsp;
  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp; 
